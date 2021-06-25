@@ -1,20 +1,22 @@
-```javascript=1
-console.log('hello world') #hello world
-```
 
-## About Me
-> [name=Okirshen]
-> [color=#34a4eb]
-- 🔭 I’m currently working on Drex, a deno based discord bot franework
-- 📫 How to reach me: [okirshen@gmail.com](mailto:okirshen@gmail.com)
+# About me
+I make computer go brrrr
 
-## Tech Stack
-- [x] deno
-- [x] node
-- [x] vue
-- [x] svelte
-- [x] nuxtjs
+## Tech I Play With
+- Svelte 🤤
+- Deno 🤤
+- React
+- Vue
+- python-Tensorflow
 
- ---
+and adding every day
+
+## Projects I have built
+- [my site](https://okirshen.xyz) - my site showcasing more projects and info about me.
+- [WenSpace](https://wenspace.xyz) - wenSpace is a website that lets u know when r the next rocket launches.
+
+## Contact Me
+to contact me visit the form on my site or my email [okirshen](mailto:okirshen@gmail.com)
+
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=okirshen&theme=dracula)](https://github.com/okirshen/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=okirshen&layout=compact&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
