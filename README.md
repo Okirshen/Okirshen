@@ -3,7 +3,7 @@
 In love with dracula theme
 
 ## Tech I Like
-- Svelt
+- Svelte
 - Deno
 - Rust
 - Godot
