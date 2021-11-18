@@ -1,7 +1,7 @@
 
 # About me
+In love with dracula theme
 
-wait why does it work?!
 ## Tech I Like
 - Svelt
 - Deno
