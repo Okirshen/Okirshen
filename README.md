@@ -1,18 +1,15 @@
 
 # About me
-I make computer go brrrr
 
-## Tech I Play With
-- Svelte 🤤
-- Deno 🤤
-- React
-- Vue
-- python-Tensorflow
-
-and adding every day
+wait why does it work?!
+## Tech I Like
+- Svelt
+- Deno
+- Rust
+- Godot
 
 ## Projects I have built
-- [my site](https://okirshen.xyz) - my site showcasing more projects and info about me.
+<!-- [my site](https://okirshen.xyz) - my site showcasing more projects and info about me. -->
 - [WenSpace](https://wenspace.xyz) - wenSpace is a website that lets u know when r the next rocket launches.
 
 ## Contact Me
